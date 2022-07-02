@@ -1,0 +1,33 @@
+
+body{
+    background-image: linear-gradient(rgb(95, 95, 243), rgb(15, 15, 224));
+    font: normal 18px arial;
+    height: 100vh;
+}
+
+header, footer{
+    color: white;
+    text-align: center;
+}
+
+section{
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: rgba(0, 0, 0, 0.438) 5px 5px 10px;
+}
+
+div{
+    text-align: center;
+}
+
+select{
+    background-color: rgb(197, 211, 236);
+    overflow: hidden;
+}
+
+footer{
+    font-style: italic;
+}
